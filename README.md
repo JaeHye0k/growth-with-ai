@@ -17,6 +17,7 @@ claude plugin install coding@growth-with-ai
 | 플러그인 | 설명 | 문서 |
 |---|---|---|
 | **coding** | AI에 코드 작성을 위임하면서도 작성력·이해도·검증력을 유지하기 위한 가드레일. 핵심 로직은 직접 작성하게 하고, 리뷰 시 직접 설명을 요구하며, 엣지 케이스/코드 퀄리티/보안 관점의 질문을 던진다. | [README](plugins/coding/README.md) |
+| **problem-solve** | AI에 문제 해결을 위임하지 않고 스스로 풀도록 돕는 코치 모드. 문제가 등장하면 답 대신 게이트 질문으로 시작하고, 티어에 따라 6단계 문제 해결 프로세스를 코칭한다. | [README](plugins/problem-solve/README.md) |
 
 ## 저장소 구조
 
