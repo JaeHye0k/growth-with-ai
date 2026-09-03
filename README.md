@@ -9,14 +9,14 @@
 claude plugin marketplace add JaeHye0k/growth-with-ai
 
 # 2. 원하는 플러그인 설치
-claude plugin install growth-with-ai@growth-with-ai
+claude plugin install coding@growth-with-ai
 ```
 
 ## 플러그인 목록
 
 | 플러그인 | 설명 | 문서 |
 |---|---|---|
-| **growth-with-ai** | AI에 코드 작성을 위임하면서도 작성력·이해도·검증력을 유지하기 위한 가드레일. 핵심 로직은 직접 작성하게 하고, 리뷰 시 직접 설명을 요구하며, 엣지 케이스/코드 퀄리티/보안 관점의 질문을 던진다. | [README](plugins/growth-with-ai/README.md) |
+| **coding** | AI에 코드 작성을 위임하면서도 작성력·이해도·검증력을 유지하기 위한 가드레일. 핵심 로직은 직접 작성하게 하고, 리뷰 시 직접 설명을 요구하며, 엣지 케이스/코드 퀄리티/보안 관점의 질문을 던진다. | [README](plugins/coding/README.md) |
 
 ## 저장소 구조
 

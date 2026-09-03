@@ -1,4 +1,4 @@
-# growth-with-ai
+# coding
 
 AI에 코드 작성을 위임하면서 생기는 능력 저하(코드 작성력, 코드베이스 이해도, 검증 능력)를 막기 위한 Claude Code 플러그인.
 
@@ -76,5 +76,5 @@ baseline 스킬 → 경계선 설정
 
 ```bash
 claude plugin marketplace add JaeHye0k/growth-with-ai
-claude plugin install growth-with-ai@growth-with-ai
+claude plugin install coding@growth-with-ai
 ```
